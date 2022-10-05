@@ -1,7 +1,5 @@
 # hotel App Nameish
 # use Cubit 
-# use Location 
-
 
 ## Algoriza Task
 
